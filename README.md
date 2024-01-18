@@ -18,6 +18,7 @@ You’ll be building a beautiful egg timer app to boil your eggs to perfection d
 * Conditional statements - Switch
 * Functions with outputs
 * How to use the ProgressView
+* Added Notification
 
 
 

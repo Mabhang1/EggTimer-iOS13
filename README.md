@@ -1,4 +1,4 @@
-![App Brewery Banner](Documentation/AppBreweryBanner.png)
+![Egg Timer Banner](Documentation/EggTimer%20Swift.jpg)
 
 # Egg Timer
 
